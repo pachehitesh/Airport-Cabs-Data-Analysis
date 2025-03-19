@@ -80,8 +80,8 @@ This project is open-source and available under the MIT License.
 ```
 
 This README provides:
-✅ **Clear description**  
-✅ **Code snippets**  
-✅ **Setup guide**  
-✅ **Insights from analysis**  
+✅ Clear description 
+✅ Code snippets  
+✅ Setup guide  
+✅ Insights from analysis  
 
